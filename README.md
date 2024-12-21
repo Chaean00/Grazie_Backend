@@ -32,6 +32,8 @@ MySQL
 ![image](https://github.com/user-attachments/assets/2d4fa862-5005-4285-82ba-bf6af86ffa89)
 ![image](https://github.com/user-attachments/assets/fae93a90-20c8-4375-9fd5-2abdbec3736a)
 
+🎥[시연 영상](https://youtube.com/shorts/6JZlPgkfF0Q)
+
 ## [역할 및 담당기능]
 ### - 데이터베이스 설계 <br>
 서비스에 필요한 데이터 모델을 설계하고, 데이터베이스 구조를 정의했습니다. 데이터베이스의 성능을 최적화하고, 확장성을 고려하여 설계를 진행했습니다.<br><br>
